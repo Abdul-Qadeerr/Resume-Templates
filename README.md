@@ -5,6 +5,7 @@
 1. **AI Specialist** - For AI strategy and implementation roles
 2. **ML Engineer** - For machine learning engineering positions  
 3. **NLP Engineer** - For Natural Language Processing specialists
+4. **Senior ML Engineer** - For Senior machine learning engineering positions 
 
 ## 🚀 How to Use:
 1. Download the PDF template you need
