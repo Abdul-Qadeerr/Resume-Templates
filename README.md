@@ -1,6 +1,6 @@
 # AI/ML Resume Templates 🤖
 
-3 specialized resume templates for AI/ML roles:
+4 specialized resume templates for AI/ML roles:
 
 1. **AI Specialist** - For AI strategy and implementation roles
 2. **ML Engineer** - For machine learning engineering positions  
